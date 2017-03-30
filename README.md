@@ -12,6 +12,9 @@ Specifically with the hashed email plugin. Sovrn will be able to match your user
 
 We are delighted to work together with the phpList project. By installing this plugin in phpList, all you need to do is register with us and enter your partner ID in the settings in phpList. You can then continue to send email campaigns like before and find the results in our client portal.
 
+More information at http://sovrn.com
+
+
 ## Installation
 
 To install, use the [phpList plugin manager](https://www.phplist.org/manual/ch042_phplist-plugins.xhtml)
